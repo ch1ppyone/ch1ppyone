@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ch1ppyone/ch1ppyone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maxim Nikolyukin
 
-Here are some ideas to get you started:
+Hi, I'm Maxim - a practicing developer and teacher at the Tambov State Technical University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻  My skills
+
+- Programming Language: С++ / С# / JS / PHP / Python
+
+- Frontend Development: HTML / CSS / Bootstrap/ Vue/ Webpack
+
+- Backend Development: Laravel / Node.js / Express/ ASP.NET Core
+
+- Other: Linux / Git / Docker / CI/CD / Unity
